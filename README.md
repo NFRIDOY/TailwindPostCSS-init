@@ -2,9 +2,6 @@
 Tailwind-demo PostCSS
 ## To Setup node modules
 ~~~
-npm init -y
-~~~
-~~~
 npm install -D tailwindcss postcss autoprefixer vite
 ~~~
 ## To Run
