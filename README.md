@@ -7,6 +7,10 @@ git clone https://github.com/NFRIDOY/TailwindPostCSS-init.git
 cd TailwindPostCSS-init
 code .
 ~~~
+## GoTo New Repository
+~~~
+https://github.com/new
+~~~
 ## To Setup node_modules, PostCSS & Vite
 ~~~
 npm install -D tailwindcss postcss autoprefixer vite
