@@ -1,5 +1,12 @@
-# Tailwind-demo-PostCSS
-Tailwind-demo PostCSS
+# Tailwind-demo-PostCSS with Vite
+## Copy it for git clone!!!
+~~~
+git clone https://github.com/NFRIDOY/TailwindPostCSS-init.git
+~~~
+~~~
+cd TailwindPostCSS-init
+code .
+~~~
 ## To Setup node_modules, PostCSS & Vite
 ~~~
 npm install -D tailwindcss postcss autoprefixer vite
