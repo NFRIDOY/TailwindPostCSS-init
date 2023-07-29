@@ -1,6 +1,6 @@
 # Tailwind-demo-PostCSS
 Tailwind-demo PostCSS
-## To Setup node modules, PostCSS & Vite
+## To Setup node_modules, PostCSS & Vite
 ~~~
 npm install -D tailwindcss postcss autoprefixer vite
 ~~~
