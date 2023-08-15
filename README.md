@@ -1,4 +1,4 @@
-# Tailwind-demo-PostCSS with Vite
+# Tailwind-PostCSS-DaisyUI with Vite
 ## Copy it for git clone!!!
 ~~~
 git clone https://github.com/NFRIDOY/TailwindPostCSS-init.git
